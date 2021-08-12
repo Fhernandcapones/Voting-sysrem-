@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Voting app</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="official_appname">SAFE KA DITO</string>
+    <string name="sign_in">Please Sign-in to continue</string>
+    <string name="welcome">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot Your Password?</string>
+    <string name="login">Login</string>
+    <string name="notRegister">Dont have account yet?</string>
+    <string name="signup">Sign-up</string>
+    <string name="create">Create Account</string>
+    <string name="fill_up">Please fill the input below here</string>
+    <string name="required">Required*</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="suffixes">Suffixes</string>
+    <string name="alias">Alias</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <string name="continueCredentials">Please Continue your</string>
+    <string name="inputHere">Credentials Here</string>
+    <string name="email">Email</string>
+    <string name="contact">Contact Number</string>
+    <string name="first_password">First Password</string>
+    <string name="second_password">Second Password</string>
+    <string name="swipe_left">Swipe Left</string>
+    <string name="title_activity_splash_screen">activity_splash_screen</string>
+
+    <string name="school">CITY OF MALABON</string>
+    <string name="uni">UNIVERSITY</string>
+    <string name="vote">Voting App</string>
+
+    <string name="createAccount">Create Account</string>
+    <string name="fullName">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Sign Up</string>
+    <string name="swipe_right">Swipe right to login</string>
+</resources>
